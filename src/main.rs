@@ -1,12 +1,9 @@
-struct Solution{
+mod lc2149;
+mod lc1363;
 
-}
+struct Solution{}
 fn main() {
-}
+    let res = Solution::largest_multiple_of_three(vec![5, 5, 5, 2, 1, 4]);
+    println!("{}", res );
 
-impl Solution {
-    pub fn shortest_path_length(graph: Vec<Vec<i32>>) -> i32 {
-        
-        0
-    }
 }
