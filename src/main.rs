@@ -1,5 +1,7 @@
 mod lc2149;
 mod lc1363;
+mod lc2971;
+mod lc4;
 
 struct Solution{}
 fn main() {
